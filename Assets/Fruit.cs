@@ -11,6 +11,7 @@ public class Fruit : MonoBehaviour
     public float flingDistance = 2f;
     public Tree parentTree;
 
+    public bool isSeed;
     private float creationTime;
 
 
